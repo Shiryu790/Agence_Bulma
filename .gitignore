@@ -1,0 +1,4 @@
+*.json
+sass
+node_modules
+css
